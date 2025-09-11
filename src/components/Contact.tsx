@@ -47,7 +47,7 @@ const Contact = () => {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/Pavan01Mamindla', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/mamindla-pavan-b9a6a8228/', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mamindlapavan', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:pavanmamindla1@gmail.com', label: 'Email' }
   ];
 
@@ -93,6 +93,8 @@ const Contact = () => {
                   <a
                     key={label}
                     href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-blue-600 hover:text-white transition-all duration-200 transform hover:scale-110"
                     aria-label={label}
                   >

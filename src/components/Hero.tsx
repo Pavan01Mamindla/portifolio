@@ -25,11 +25,11 @@ const Hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">Welcome to My Portfolio</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">Mamindla Pavan</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-4 font-light">
-            Hi, I'm Mamindla Pavan - Full Stack Developer
+            Full Stack Developer
           </p>
           
           <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
@@ -60,7 +60,7 @@ const Hero = () => {
             <a href="https://github.com/Pavan01Mamindla" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transform hover:scale-110 transition-all duration-200">
               <Github size={24} />
             </a>
-            <a href="https://www.linkedin.com/in/mamindla-pavan-b9a6a8228/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transform hover:scale-110 transition-all duration-200">
+            <a href="https://www.linkedin.com/in/mamindlapavan" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transform hover:scale-110 transition-all duration-200">
               <Linkedin size={24} />
             </a>
             <a href="mailto:pavanmamindla1@gmail.com" className="text-gray-600 hover:text-blue-600 transform hover:scale-110 transition-all duration-200">

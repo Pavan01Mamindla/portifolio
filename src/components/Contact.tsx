@@ -48,7 +48,7 @@ const Contact = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/Pavan01Mamindla', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/mamindlapavan', label: 'LinkedIn' },
-    { icon: Mail, href: 'mailto:pavanmamindla1@gmail.com', label: 'Email' }
+    { icon: Mail, href: 'https://www.pavanmamindla1@gmail.com', label: 'Email' }
   ];
 
   return (

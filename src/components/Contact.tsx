@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -46,9 +45,9 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'https://github.com/Pavan01Mamindla' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Twitter, href: '#', label: 'Twitter' }
+    { icon: Github, href: 'https://github.com/Pavan01Mamindla', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mamindla-pavan-b9a6a8228/', label: 'LinkedIn' },
+    { icon: Mail, href: 'mailto:pavanmamindla1@gmail.com', label: 'Email' }
   ];
 
   return (
@@ -137,9 +136,9 @@ const Contact = () => {
                     Email Address
                   </label>
                   <input
-                    type="gmail"
+                    type="email"
                     id="gmail"
-                    name="gmail"
+                    name="email"
                     value={formData.email}
                     onChange={handleChange}
                     required

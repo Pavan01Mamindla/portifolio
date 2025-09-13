@@ -31,125 +31,152 @@ endobj
 
 4 0 obj
 <<
-/Length 4500
+/Length 5200
 >>
 stream
 BT
-/F2 20 Tf
+/F2 24 Tf
 50 750 Td
 (PAVAN MAMINDLA) Tj
-0 -25 Td
-/F1 11 Tf
+0 -30 Td
+/F1 12 Tf
 (Hyderabad, Telangana, India) Tj
-0 -15 Td
-(+91-9177207348 | pavanmamindla1@gmail.com | www.linkedin.com/in/mamindlapavan) Tj
+0 -18 Td
+(+91-9177207348  |  pavanmamindla1@gmail.com  |  www.linkedin.com/in/mamindlapavan) Tj
+
+0 -40 Td
+/F2 16 Tf
+(PROFILE SUMMARY) Tj
+0 -5 Td
+50 0 m 200 0 l S
+0 -20 Td
+/F1 11 Tf
+(• Highly motivated and detail-oriented Computer Science Engineer with strong academic background) Tj
+0 -14 Td
+(• Passionate for innovative technologies with proficiency in multiple programming languages) Tj
+0 -14 Td
+(• Expert in Java, Python, C++, and JavaScript with excellent problem-solving skills) Tj
+0 -14 Td
+(• Strong foundation in data structures, algorithms, and computer systems) Tj
 
 0 -35 Td
-/F2 14 Tf
-(PROFILE SUMMARY) Tj
-0 -20 Td
-/F1 10 Tf
-(Highly motivated and detail-oriented Computer Science Engineer with a strong academic) Tj
-0 -12 Td
-(background and a passion for innovative technologies. Proficient in a range of programming) Tj
-0 -12 Td
-(languages, including Java, Python, C++, and JavaScript. Excellent problem-solving skills,) Tj
-0 -12 Td
-(with a strong foundation in data structures, algorithms, and computer systems.) Tj
-
-0 -30 Td
-/F2 14 Tf
+/F2 16 Tf
 (TECHNICAL SKILLS) Tj
+0 -5 Td
+50 0 m 200 0 l S
 0 -20 Td
-/F1 10 Tf
-(Python • C Language • JavaScript • HTML • SQL • MongoDB • Data Structures • CSS) Tj
-0 -12 Td
-(OOPS • Linux • React.js) Tj
+/F2 12 Tf
+(Programming Languages:) Tj
+/F1 11 Tf
+( Python • C Language • JavaScript • Java • C++) Tj
+0 -16 Td
+/F2 12 Tf
+(Web Technologies:) Tj
+/F1 11 Tf
+( HTML • CSS • React.js • RESTful APIs) Tj
+0 -16 Td
+/F2 12 Tf
+(Database & Tools:) Tj
+/F1 11 Tf
+( SQL • MongoDB • PostgreSQL • DBMS) Tj
+0 -16 Td
+/F2 12 Tf
+(Core Concepts:) Tj
+/F1 11 Tf
+( Data Structures • OOPS • Algorithms • Linux) Tj
 
-0 -30 Td
-/F2 14 Tf
+0 -35 Td
+/F2 16 Tf
 (PROJECTS) Tj
-
-0 -20 Td
-/F2 12 Tf
-(E-commerce Backend API) Tj
-/F1 10 Tf
-( | JavaScript, Rest APIs, DBMS | Sep 2022) Tj
-0 -15 Td
-(• Built a scalable backend for an e-commerce platform using Java \(Spring Boot\).) Tj
-0 -12 Td
-(• Created APIs for product listing, cart management, and order processing.) Tj
-0 -12 Td
-(• Integrated payment gateway APIs like PayPal or RazorPay for secure transactions.) Tj
-0 -12 Td
-(• Used PostgreSQL for database management and implemented search and filtering features.) Tj
-
-0 -20 Td
-/F2 12 Tf
-(Weather Forecast Web App) Tj
-/F1 10 Tf
-( | React.js, JavaScript, HTML, CSS, RESTful API | Oct 2022) Tj
-0 -15 Td
-(• Developed a user-friendly web app providing current weather conditions and 7-day forecasts.) Tj
-0 -12 Td
-(• Integrated a RESTful API to fetch real-time weather data, ensuring accuracy and reliability.) Tj
-0 -12 Td
-(• Implemented a responsive design, allowing the web app to adapt to various devices.) Tj
-0 -12 Td
-(• Utilized React.js to create interactive UI components, enhancing user engagement.) Tj
-0 -12 Td
-(• Designed an intuitive interface, making it easy for users to access weather information.) Tj
-
-0 -20 Td
-/F2 12 Tf
-(Weather Based Traffic Scene Perception) Tj
-/F1 10 Tf
-( | Python, Supervised Learning, HTML, CSS | March 2023) Tj
-0 -15 Td
-(• Developed an innovative Weather-Based Traffic Scene Perception system using supervised learning.) Tj
-0 -12 Td
-(• Implemented a deep learning model to classify weather conditions from traffic scene images.) Tj
-0 -12 Td
-(• Analyzed traffic scenes to detect and recognize objects under different weather conditions.) Tj
-0 -12 Td
-(• Integrated weather condition classification and traffic scene understanding.) Tj
-
-0 -30 Td
-/F2 14 Tf
-(EDUCATION) Tj
-0 -20 Td
-/F2 12 Tf
-(Joginpally B.R. Engineering College) Tj
-/F1 10 Tf
-( | Aug 2019 – Aug 2023) Tj
-0 -12 Td
-(Bachelor of Technology, Computer Science Engineering | Hyderabad) Tj
-
-0 -15 Td
-/F2 12 Tf
-(Sai Shivani Jr. College) Tj
-/F1 10 Tf
-( | July 2017 – March 2019) Tj
-0 -12 Td
-(Intermediate, MPC | Hanamkonda) Tj
-
-0 -30 Td
-/F2 14 Tf
-(EXTRACURRICULAR) Tj
-0 -15 Td
-/F1 10 Tf
-(• Active participant in college coding tests and hackathons, showcasing teamwork and problem-solving skills.) Tj
-0 -12 Td
-(• Volunteered in technical and cultural fests, managing events and coordinating with diverse teams.) Tj
-0 -12 Td
-(• Represented college as a chess and carrom player, demonstrating strategic thinking and focus.) Tj
+0 -5 Td
+50 0 m 200 0 l S
 
 0 -25 Td
 /F2 14 Tf
+(E-commerce Backend API) Tj
+/F1 11 Tf
+( | JavaScript, REST APIs, DBMS | Sep 2022) Tj
+0 -18 Td
+(• Built scalable backend for e-commerce platform using Java \(Spring Boot\)) Tj
+0 -14 Td
+(• Created comprehensive APIs for product listing, cart management, and order processing) Tj
+0 -14 Td
+(• Integrated secure payment gateway APIs \(PayPal, RazorPay\) for transactions) Tj
+0 -14 Td
+(• Implemented PostgreSQL database management with advanced search and filtering) Tj
+
+0 -25 Td
+/F2 14 Tf
+(Weather Forecast Web App) Tj
+/F1 11 Tf
+( | React.js, JavaScript, HTML, CSS, RESTful API | Oct 2022) Tj
+0 -18 Td
+(• Developed user-friendly web application providing current weather and 7-day forecasts) Tj
+0 -14 Td
+(• Integrated RESTful API for real-time weather data with high accuracy and reliability) Tj
+0 -14 Td
+(• Implemented responsive design adapting to various devices and screen sizes) Tj
+0 -14 Td
+(• Created interactive UI components using React.js for enhanced user engagement) Tj
+0 -14 Td
+(• Designed intuitive interface for easy access to comprehensive weather information) Tj
+
+0 -25 Td
+/F2 14 Tf
+(Weather Based Traffic Scene Perception) Tj
+/F1 11 Tf
+( | Python, Supervised Learning, HTML, CSS | March 2023) Tj
+0 -18 Td
+(• Developed innovative Weather-Based Traffic Scene Perception using supervised learning) Tj
+0 -14 Td
+(• Implemented deep learning model for weather classification \(sunny, rainy, foggy, snowy\)) Tj
+0 -14 Td
+(• Analyzed traffic scenes for object detection \(vehicles, pedestrians, lanes\) in various weather) Tj
+0 -14 Td
+(• Integrated weather classification with traffic scene understanding for comprehensive analysis) Tj
+
+0 -35 Td
+/F2 16 Tf
+(EDUCATION) Tj
+0 -5 Td
+50 0 m 200 0 l S
+0 -20 Td
+/F2 14 Tf
+(Joginpally B.R. Engineering College) Tj
+/F1 11 Tf
+( | Aug 2019 – Aug 2023) Tj
+0 -14 Td
+(Bachelor of Technology, Computer Science Engineering | Hyderabad) Tj
+
+0 -20 Td
+/F2 14 Tf
+(Sai Shivani Jr. College) Tj
+/F1 11 Tf
+( | July 2017 – March 2019) Tj
+0 -14 Td
+(Intermediate, MPC | Hanamkonda) Tj
+
+0 -35 Td
+/F2 16 Tf
+(EXTRACURRICULAR ACTIVITIES) Tj
+0 -5 Td
+50 0 m 200 0 l S
+0 -20 Td
+/F1 11 Tf
+(• Active participant in college coding tests and hackathons demonstrating teamwork) Tj
+0 -14 Td
+(• Volunteered in technical and cultural fests with event management responsibilities) Tj
+0 -14 Td
+(• Represented college as chess and carrom player showing strategic thinking and focus) Tj
+
+0 -30 Td
+/F2 16 Tf
 (CERTIFICATIONS) Tj
-0 -15 Td
-/F1 10 Tf
-(• Web Development – Teach nook | Certification ID – 272016893) Tj
+0 -5 Td
+50 0 m 200 0 l S
+0 -20 Td
+/F1 11 Tf
+(• Web Development – Teach nook | Certification ID: 272016893) Tj
 
 ET
 endstream
@@ -178,13 +205,13 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000274 00000 n 
-0000004826 00000 n 
-0000004893 00000 n 
+0000005526 00000 n 
+0000005593 00000 n 
 trailer
 <<
 /Size 7
 /Root 1 0 R
 >>
 startxref
-4965
+5665
 %%EOF
